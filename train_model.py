@@ -1,7 +1,6 @@
 """
 SYSTÈME COMPLET DE PRÉDICTION - RESTAURANT UNIVERSITAIRE
 =========================================================
-Utilise TOUTES les données du PDF pour un modèle fiable
 """
 
 import pandas as pd
@@ -342,5 +341,6 @@ print("  ✅ evolution_temporelle.png")
 print("\n🚀 PROCHAINE ÉTAPE :")
 print("-" * 80)
 print("  Lancez l'application web avec : python app_web.py")
+
 
 print("\n" + "=" * 80)
